@@ -1,8 +1,6 @@
 # Final Project
-<p align="center">
-<img src="images/0xd4y-logo-gray-small.png" alt="hi" class="inline"/>
-</p>
-# <b> Cole Blakeman </b>
+
+# Cole Blakeman
 
 This is my final GIT Hub project. To demonstrate what I have learned I will be typing in bold and italicized font. I will also upload images, links, and links in between pages locally.
 
@@ -10,7 +8,7 @@ This is my final GIT Hub project. To demonstrate what I have learned I will be t
 
 I am from originally from Texas and I moved to Missouri to attend Mizzou. I really enjoy it here and the community and people are very nice. 
 
-<a href="https://hackthebox.eu">HackTheBox</a> is intended for pentesters already familiar with cybersecurity. It has many fun and instructive challenges that can be learned a lot from. It typically involves black-box penetration testing environments. I higly encourage you to read my <a href="https://0xd4y.github.io/Writeups/HackTheBox">HackTheBox writeups</a>!
+![image](https://user-images.githubusercontent.com/65063251/119210598-a6a80780-ba72-11eb-8c60-b4935e13ab7b.png)
 
 # Interests
 
