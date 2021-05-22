@@ -10,8 +10,7 @@ My current title is Rated Expert / Candidate Master, below is a link to my Unite
 
 Over the years I have won a few titles and tournaments, below is a list of them
 <ul>
-1. Texas Grade State Champion 2018
-2. 2nd place at Grade Nationals 2018
+
 3. Rated Expert Title
 4. Class A Title
 5. Candidate Master Title
