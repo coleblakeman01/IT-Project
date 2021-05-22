@@ -12,8 +12,18 @@ I am from originally from Texas and I moved to Missouri to attend Mizzou. I real
 
 # Interests
 
-I enjoy going hiking, fishing, and playing <i> chess </i>. 
+My hobbies indlude
 
-![TryHackMe Logo](images/TryHackMe-Logo.png#center)
+1. Chess 
+2. Fishing
+3. Hiking
+4. Hanging out with Segev
+5. Coding
 
-<a href="https://tryhackme.com">TryHackMe</a> tends to have easier challenges than HackTheBox, but sometimes there are boxes that can prove to be a real challenge. In any case, there is a lot to learn from this website, and I encourage you to try it out. Come check out my <a href="https://0xd4y.github.io/Writeups/TryHackMe">TryHackMe writeups</a>!
+The links to each of my hobbies
+1. [chess]
+2.
+3.
+4.
+5.
+
