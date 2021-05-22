@@ -21,7 +21,7 @@ My hobbies indlude
 5. Coding
 
 The links to each of my hobbies
-1. [chess]
+1. [chess](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/Chess)
 2.
 3.
 4.
