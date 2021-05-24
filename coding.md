@@ -6,7 +6,7 @@ I started learning how to code this summer before I came to Mizzou. I used an on
 
 ![image](https://user-images.githubusercontent.com/65063251/119301790-a3ef1300-bc28-11eb-9c1c-dfa46ec33458.png)
 
-Since starting in IT this year in college I have enjoyed it a lot. It has been a bit difficult for me because I work two jobs and I was involved in a few other classes and extra curriculars. However IT was my favorite class even though the work was a bit time consuming. I hope that next year I can put even more time into it and learn even more. Below is a list of all the things I have learned
+Since starting in IT _this year_ in college I have enjoyed it a lot. It has been a bit difficult for me because I work two jobs and I was involved in a few other classes and extra curriculars. However IT was my favorite class even though the work was a bit time consuming. I hope that next year I can put even more time into it and learn even more. Below is a list of all the things I have learned
 
 1. HTML
 2. CSS
