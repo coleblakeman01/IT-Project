@@ -22,9 +22,9 @@ My hobbies indlude
 5. Coding
 
 The links to each of my hobbies
-1. [chess](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/Chess)
+1. [Chess](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/Chess)
 2. [Fishing](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/fishing.md)
-3.
-4.
-5.
+3.[Hiking](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/hiking.md)
+4.[Yoyo]()
+5.[Coding]()
 
