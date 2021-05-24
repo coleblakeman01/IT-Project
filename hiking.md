@@ -6,4 +6,4 @@ I never get to go hiking often but it is one of my favorite things to do. Being 
 
 Here is a link to one of their trail guides, 
 
-(Denali)[https://www.alaska.org/destination/denali-national-park/parks-and-trails]
+[Denali](https://www.alaska.org/destination/denali-national-park/parks-and-trails)
