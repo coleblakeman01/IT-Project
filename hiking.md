@@ -7,3 +7,13 @@ I never get to go hiking often but it is one of my favorite things to do. Being 
 Here is a link to one of their trail guides, 
 
 [Denali](https://www.alaska.org/destination/denali-national-park/parks-and-trails)
+
+The following states or parks had some of my favorite trails
+
+1. Yellowstone
+2. North Dakota
+3. Mount Rushmore
+4. The Badlands
+5. Denali
+
+Spotting wildlife is also one of my favorite parts about being outside. Flowers, insects, and animals are always fun to look at for. When I go hiking I like to bring my camera and take photos of the things I find. Below is a photo of a fly I saw last time I went hiking in Columbia.
