@@ -17,3 +17,10 @@ The following states or parks had some of my favorite trails
 5. Denali
 
 Spotting wildlife is also one of my favorite parts about being outside. Flowers, insects, and animals are always fun to look at for. When I go hiking I like to bring my camera and take photos of the things I find. Below is a photo of a fly I saw last time I went hiking in Columbia.
+
+The links to each of my hobbies
+1. [Chess](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/Chess)
+2. [Fishing](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/fishing.md)
+3. [Hiking](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/hiking.md)
+4. [Yoyo](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/yoyo.md)
+5. [Coding](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/coding.md)
