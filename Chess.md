@@ -15,3 +15,10 @@ Over the years I have won a few titles, here is a list of them
 5. Candidate Master Title
 
 ### I find chess very satisfying and it gives me something to work on with my spare time. While I dont study as much as I used to, I still find time every day to study for a short while. Below is an image of a book that I greatly enjoyed reading.
+
+The links to each of my hobbies
+1. [Chess](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/Chess)
+2. [Fishing](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/fishing.md)
+3.[Hiking](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/hiking.md)
+4.[Yoyo](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/yoyo.md)
+5.[Coding](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/coding.md)
