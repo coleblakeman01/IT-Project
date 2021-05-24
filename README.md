@@ -18,7 +18,7 @@ My hobbies indlude
 1. Chess 
 2. Fishing
 3. Hiking
-4. Yoyoing
+4. Yoyo-ing
 5. Coding
 
 The links to each of my hobbies
