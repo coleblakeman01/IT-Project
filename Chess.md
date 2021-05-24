@@ -14,4 +14,4 @@ Over the years I have won a few titles, here is a list of them
 4. Class A Title
 5. Candidate Master Title
 
-I find chess very satisfying and it gives me something to work on with my spare time. While I dont study as much as I used to, I still find time every day to study for a short while. Below is an image of a book that I greatly enjoyed reading.
+### I find chess very satisfying and it gives me something to work on with my spare time. While I dont study as much as I used to, I still find time every day to study for a short while. Below is an image of a book that I greatly enjoyed reading.
