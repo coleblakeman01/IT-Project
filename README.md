@@ -26,5 +26,5 @@ The links to each of my hobbies
 2. [Fishing](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/fishing.md)
 3.[Hiking](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/hiking.md)
 4.[Yoyo](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/yoyo.md)
-5.[Coding]()
+5.[Coding](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/coding.md)
 
