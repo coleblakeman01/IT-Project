@@ -16,6 +16,8 @@ Over the years I have won a few titles, here is a list of them
 
 ### I find chess very satisfying and it gives me something to work on with my spare time. While I dont study as much as I used to, I still find time every day to study for a short while. Below is an image of a book that I greatly enjoyed reading.
 
+![JeremySilman'sEndgameManuel](/images/th.jpg)
+
 The links to each of my hobbies
 1. [Chess](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/Chess)
 2. [Fishing](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/fishing.md)
