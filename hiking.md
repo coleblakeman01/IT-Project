@@ -25,4 +25,4 @@ The links to each of my hobbies
 4. [Yoyo](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/yoyo.md)
 5. [Coding](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/coding.md)
 
-![flyimage](/images/
+![flyimage](/images/https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/images/DSC00257.JPG)
