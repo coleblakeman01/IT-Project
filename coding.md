@@ -17,6 +17,8 @@ Since starting in IT _this year_ in college I have enjoyed it a lot. It has been
 
 I hope to continue to grow this list and improve in all the languages I have learned. Web Development interests me the most and I feel that the languages I am learning now will most definitly help me. Below is an image of the Python logo. Python is by far my favorite language that I know enough about. My IT 1040 class showed me the basics and I love it.
 
+![PythonLogo](/images/Python-programming-compressed.jpg)
+
 The links to each of my hobbies
 1. [Chess](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/Chess)
 2. [Fishing](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/fishing.md)
