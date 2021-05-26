@@ -28,7 +28,7 @@ My hobbies indlude
 
 “Nothing great in the world has ever been accomplished without passion.” - George Hegel
 
-![LandscapeImage](500_6146-Edit-Edit-1920x1424.jpg)
+![LandscapeImage](/images/500_6146-Edit-Edit-1920x1424.jpg)
 
 To switch between pages use the links below, each page has its own menu list at the bottom so users do not have to go back to README.MD to switch pages. At the very bottom is the link written in HTML to come back to the homepage. 
 
