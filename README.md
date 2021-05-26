@@ -40,6 +40,6 @@ The links to each of my hobbies
 5. [Coding](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/coding.md)
 
 ```html
-<a href="https://www.quackit.com/html/tutorial/">Home Page</a>
+<a href="https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/README.md">Home Page</a>
 ```
 
