@@ -17,6 +17,8 @@ The following is a list of some of my favorite yoyos
 
 Below is an image of a yoyo I plan on buying next time I go to Orlando at the yoyo shop in Universal Studios
 
+![Yoyo](th (1).jpg)
+
 The links to each of my hobbies
 1. [Chess](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/Chess)
 2. [Fishing](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/fishing.md)
