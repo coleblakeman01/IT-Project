@@ -11,6 +11,8 @@ I am from originally from Texas and I moved to Missouri to attend Mizzou. I real
 
 For my GIT Hub presentation I am showcasing some of my hobbies and things I enjoy doing in Mizzou. Some of my hobbies are rather new and exist solely because of the people I met here in Columbia. I hope you find what I'v written interesting. 
 
+[USCF](http://www.uschess.org/msa/MbrDtlMain.php?14130588)
+
 
 ![image](https://user-images.githubusercontent.com/65063251/119210598-a6a80780-ba72-11eb-8c60-b4935e13ab7b.png)
 
