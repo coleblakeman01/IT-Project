@@ -23,3 +23,9 @@ The links to each of my hobbies
 3. [Hiking](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/hiking.md)
 4. [Yoyo](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/yoyo.md)
 5. [Coding](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/coding.md)
+
+To copy the home page and share it, click the clipboard icon on the right
+
+```html
+<a href="https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/README.md">Home Page</a>
+```
