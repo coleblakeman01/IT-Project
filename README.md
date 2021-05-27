@@ -16,7 +16,7 @@ For my GIT Hub presentation I am showcasing some of my hobbies and things I enjo
 
 # Interests
 
-My hobbies indlude
+My _hobbies_ indlude
 
 1. Chess 
 2. Fishing
@@ -33,7 +33,7 @@ My hobbies indlude
 To switch between pages use the links below, each page has its own menu list at the bottom so users do not have to go back to README.MD to switch pages. At the very bottom is the link written in HTML to come back to the homepage. 
 
 The links to each of my hobbies
-1. [Chess](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/Chess)
+1. [Chess](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/Chess.md)
 2. [Fishing](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/fishing.md)
 3. [Hiking](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/hiking.md)
 4. [Yoyo](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/yoyo.md)
