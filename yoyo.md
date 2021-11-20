@@ -4,7 +4,7 @@ Probably one of my more _uncommon interests_... I got into yoyo-ing in 7th grade
 
 [yoyo video](https://www.youtube.com/watch?v=uHEs5JRFEUU)
 
-The first yoyo I got was a Duncan Barracuda, it is an aluminum unresponsive yoyo and I got it in Universal Studios in Orlando FL. Below is an image of the yoyo
+The first yoyo I got was a Duncan Barracuda, it is an aluminum unresponsive yoyo and I got it in Universal Studios in Orlando FL. Below is an image of the yoyo .
 
 ![image](https://user-images.githubusercontent.com/65063251/119300766-edd6f980-bc26-11eb-9a5a-f85024a612bf.png)
 
