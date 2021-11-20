@@ -1,7 +1,7 @@
 
 # Final Project
 
-# Cole Blakeman
+# Cole Blakeman.
 
 This is my final GIT Hub project. To demonstrate what I have learned I will be typing in bold and italicized font. I will also upload images, links, and links in between pages locally.
 
